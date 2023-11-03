@@ -1656,86 +1656,66 @@ border-radius: 10px;
 }
   
 
-  /* ABOUT */
-  #about img{
-	width: 100%;
-	padding-bottom: 1.5rem;
-  }
-  #about p{
-	max-width: 50rem;
-	text-align: justify;
-  }
+/* ABOUT */
+#about img{
+width: 100%;
+padding-bottom: 1.5rem;
+}
+#about p{
+max-width: 50rem;
+text-align: justify;
+}
 
   
-  /* Vision */
-  #vision {
-	width: max-content;
-	text-align: justify;
-  }
-  #vision p{
-	width: max-content;
-	font-size: 1rem;
-	text-align: justify;
-  }
-  #vision .comment {
-	font-size: 1rem;
-	margin-top: -2rem;
-	margin-left: 4.7rem;
-  }
-  #vision .comment2 {
-	font-size: 1rem;
-	margin-top: -2rem;
-	margin-left: 2.6rem;
-  }
-
-  #vision p{
-	max-width: 50rem;
-	text-align: justify;
-  }
+/* Vision */
+#vision p{
+max-width: 50rem;
+text-align: justify;
+}
   
-  /* INVESTMENTS */
-  #investments {
-	width: 65rem;
-  }
-  #investments div {
-	width: 100%;
-	height: 8.5rem;
-	margin-bottom: 3rem;
-  }
-  #investments p {
-	max-width: 60rem;
-	text-align: justify;
-	margin-bottom: 0.2rem;
-  }
+/* INVESTMENTS */
+#investments {
+width: 65rem;
+}
+#investments div {
+width: 90%;
+height: 8.5rem;
+margin-bottom: 3rem;
+}
+#investments p {
+max-width: 60rem;
+text-align: justify;
+margin-bottom: 0.2rem;
+}
 
-  #investments img{
-	float: left;
-	margin-top: 0rem;
-	margin-right: 1rem;
-	width: 8rem;
-	height: 8rem;
-	min-width: 5rem;
-	aspect-ratio: 1 / 1;
-  }
-  #investments .button{
-	width: fit-content;
-	height: fit-content;
-	display:inline-block;
-	font-size: 90%;
-	font-weight: bold;
-	color: #FFFFFF;
-	border-radius: 0.5em;
-	padding: 0.1rem 0.8rem 0.1rem 0.8rem;
-	margin-right: 0.5rem;
-	margin-bottom: 1rem;
-	cursor: pointer;
-  }
-  
-  #investments .link{
-	background-color: #63645d;
-  }
+#investments img{
+float: left;
+margin-top: 0rem;
+margin-right: 1rem;
+width: 8rem;
+height: 8rem;
+min-width: 5rem;
+aspect-ratio: 1 / 1;
+}
+#investments .button{
+width: fit-content;
+height: fit-content;
+display:inline-block;
+font-size: 90%;
+font-weight: bold;
+color: #FFFFFF;
+border-radius: 0.5em;
+padding: 0.1rem 0.8rem 0.1rem 0.8rem;
+margin-right: 0.5rem;
+margin-bottom: 1rem;
+cursor: pointer;
+}
 
-  #investments .description{
-	font-family: Consolas,monospace;
-	font-size: 100%;
-  }
+#investments .link{
+background-color: #63645d;
+}
+
+#investments .description{
+font-family: Consolas,monospace;
+font-size: 100%;
+}

@@ -1458,9 +1458,6 @@ float: left;
 margin-top: 0rem;
 margin-right: 1rem;
 width: 8rem;
-height: 8rem;
-min-width: 5rem;
-aspect-ratio: 1 / 1;
 }
 #investments .button{
 width: fit-content;
